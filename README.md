@@ -1,6 +1,6 @@
-# Controle de Mesa - Backend
+# Restaurante - Backend
 
-Backend para um _aplicativo conceito_ de um sistema de restaurante. Segundo projeto do Bootcamp Full Stack Developer do Infnet. :wink:
+Backend para um _aplicativo conceito_ de um sistema de restaurante.
 
 Desenvolvedores:
 
@@ -13,15 +13,17 @@ Desenvolvedores:
 
 
 $yarn add sequelize -g #adicona sequelize
-
 $npx sequelize-cli db:create
 $npx sequelize-cli db:migrate
 $npx sequelize-cli db:seed:all
-$ yarn run dev
+$yarn run dev
 $yarn run create-db #cria o banco
 $ yarn install      # instala as dependências
 $ yarn reset        # cria um banco de testes com as tabelas e dados fake
 $ yarn start        # inicia o servidor
+#Usuario:Administrador
+#senha:123456
+#f1017c4ff15a6a6a2d838683fceccd76
 ```
 
 ## Padrão de rotas

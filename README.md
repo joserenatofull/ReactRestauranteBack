@@ -2,7 +2,7 @@
 
 Backend para um _aplicativo conceito_ de um sistema de restaurante.
 
-Desenvolvedores:
+Desenvolvedores parceria pós-graduação:
 
 - Gabriela Cristina Manzo da Silva - [Gitlab](https://gitlab.com/gabriela.silva)
 - Kessyus Fófano dos Santos - [Gitlab](https://gitlab.com/kessyus)
